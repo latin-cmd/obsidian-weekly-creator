@@ -1,6 +1,5 @@
 {
     "compilerOptions": {
-        "baseUrl": ".",
         "inlineSourceMap": true,
         "inlineSources": true,
         "module": "ESNext",
@@ -11,6 +10,7 @@
         "isolatedModules": true,
         "strictNullChecks": true,
         "verbatimModuleSyntax": true,
+        "noEmit": true,
         "lib": ["ES6", "DOM"]
     },
     "include": ["**/*.ts"]
