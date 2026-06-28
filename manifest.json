@@ -1,0 +1,9 @@
+{
+    "id": "weekly-creator",
+    "name": "Weekly Creator",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "批量创建周记模板文件",
+    "author": "User",
+    "isDesktopOnly": false
+}
